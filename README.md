@@ -4,8 +4,8 @@ PHP-класс для работы с api сервиса [cbr.ru](http://www.cbr
 ## Установка: ##
 
 #### Composer ####
-``` 
-composer.phar require axp-dev/cbrru-api "1.0.0"
+```
+composer require axp-dev/cbrru-api
 ```
 
 ## Документация: ##
