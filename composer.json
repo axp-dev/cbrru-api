@@ -4,7 +4,6 @@
   "homepage": "https://github.com/axp-dev/cbrru-api",
   "keywords": ["cbrru","cbr","api"],
   "license": "MIT",
-  "version": "1.0.0",
   "authors": [
     {
       "name": "Alexander Pushkarev",
