@@ -1,6 +1,10 @@
 # CBRRU-API #
 PHP библиотека для работы с api [CBR.ru](http://www.cbr.ru/)
 
+[![Latest Stable Version](https://poser.pugx.org/axp-dev/cbrru-api/v/stable)](https://packagist.org/packages/axp-dev/cbrru-api)
+[![Latest Unstable Version](https://poser.pugx.org/axp-dev/cbrru-api/v/unstable)](https://packagist.org/packages/axp-dev/cbrru-api)
+[![License](https://poser.pugx.org/axp-dev/cbrru-api/license)](https://packagist.org/packages/axp-dev/cbrru-api)
+
 ## Оглавление
 1. [Старт](#Старт)
     + [Composer](#Установка-через-composer)
