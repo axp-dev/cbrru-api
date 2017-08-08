@@ -3,6 +3,7 @@
   "description": "CBR.RU API for PHP",
   "homepage": "https://github.com/axp-dev/cbrru-api",
   "keywords": ["cbrru","cbr","api"],
+  "version": "1.0.0",
   "license": "MIT",
   "authors": [
     {
@@ -29,5 +30,6 @@
   },
   "scripts": {
     "test": "vendor/bin/phpunit"
-  }
+  },
+  "minimum-stability": "dev"
 }
